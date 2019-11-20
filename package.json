@@ -48,12 +48,12 @@
   },
   "dependencies": {
     "async": "~2.1.0",
-    "debug": "~2.6.0",
+    "debug": "^3.2.6",
     "gravatar": "^1.6.0",
     "lodash": "^4.17.15",
     "parse-link-header": "^0.4.1",
     "proxyquire": "^1.7.11",
-    "strider-git": "^1.0.0",
+    "strider-git": "alagopus/strider-git#develop",
     "superagent": "^5.1.0"
   },
   "bugs": {
